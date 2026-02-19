@@ -1,0 +1,1 @@
+node_modules/\n.env\n.DS_Store\n*.log\n\n# Frontend\nfrontend/dist/\nfrontend/node_modules/\n\n# Backend\nbackend/node_modules/\nbackend/*.log\n\n# Build artifacts\nbuild/\ndist/\n
